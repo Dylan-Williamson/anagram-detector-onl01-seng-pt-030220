@@ -1,10 +1,11 @@
 class Anagram
-  attr_accessor :name
+  attr_accessor :word
   
   def initialize(name)
     @name = name
-    
+  end
   
+  def 
   
   
 end
